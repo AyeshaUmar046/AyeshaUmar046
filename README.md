@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="#" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&background=0D0D0D&center=true&vCenter=true&width=800&height=60&lines=Biological+Data+Analysis.+Machine+Learning+Solutions.;BS+Bioinformatics+%7C+Data+Analysis+%7C+Machine+Learning;Building+Statistical+Models.+Extracting+Insights.;Final+Year+%7C+COMSATS+University+Islamabad." alt="Header Typing">
-</a>
+<!-- Animated Typing Header - Optimized for GitHub -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=4CAF50&background=0D0D0D&center=true&vCenter=true&width=700&height=60&lines=Biological+Data+Analysis;Machine+Learning+Solutions;BS+Bioinformatics+Student" alt="Header Typing">
 
 ---
 
@@ -11,7 +9,8 @@
 
 ### **Bioinformatics Student | Data Science | Machine Learning**
 
-*Leveraging Python, statistical analysis, and machine learning to solve real-world biological and data-driven problems*
+Leveraging Python, statistical analysis, and machine learning to solve  
+real-world biological and data-driven problems
 
 [![Email](https://img.shields.io/badge/Email-ayesha.umar%40example.com-4CAF50?style=flat-square&logo=gmail&logoColor=white)](mailto:ayesha.umar@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Umar-4CAF50?style=flat-square&logo=linkedin&logoColor=white)](#)
@@ -140,7 +139,7 @@ Advanced sentiment analysis on IMDB movie reviews using machine learning techniq
 
 **Model Evaluation:**
 - Accuracy metrics and performance comparison
-- Confusion matrix analysis (True Positives, False Positives, True Negatives, False Negatives)
+- Confusion matrix analysis (TP, FP, TN, FN)
 - Precision, Recall, and F1-Score calculations
 - ROC curves and AUC analysis
 
