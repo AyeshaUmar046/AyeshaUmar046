@@ -2,12 +2,13 @@
 
 <!-- Animated Typing Header -->
 <a href="#" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=4CAF50&background=0D0D0D&center=true&vCenter=true&width=900&height=70&lines=Biological+Data+Analysis.+Machine+Learning+Solutions.;BS+Bioinformatics+%7C+Data+Science+%7C+Computational+Biology.;Building+Statistical+Models.+Extracting+Insights.;Final+Year+%7C+COMSATS+University+Islamabad." alt="Header Typing">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=4CAF50&background=0D0D0D&center=true&vCenter=true&width=800&height=60&lines=Biological+Data+Analysis.+Machine+Learning+Solutions.;BS+Bioinformatics+%7C+Data+Analysis+%7C+Machine+Learning;Building+Statistical+Models.+Extracting+Insights.;Final+Year+%7C+COMSATS+University+Islamabad." alt="Header Typing">
 </a>
 
 ---
 
 ## **Ayesha Umar**
+
 ### **Bioinformatics Student | Data Science | Machine Learning**
 
 *Leveraging Python, statistical analysis, and machine learning to solve real-world biological and data-driven problems*
@@ -28,92 +29,178 @@ I focus on building statistical models and data-driven solutions that bridge bio
 
 ---
 
-## 🎯 **What I Do**
+## 🎯 **What I Focus On**
 
-- **Data Analysis & EDA** — Comprehensive exploratory analysis, statistical summarization, visualization
-- **Machine Learning** — Supervised learning (regression, classification), model evaluation, performance optimization
-- **Data Visualization** — Heatmaps, distribution plots, correlation analysis, insights from complex datasets
-- **Jupyter-Based Workflows** — Clean, reproducible analysis notebooks with detailed documentation
-- **Statistical Modeling** — Hypothesis testing, feature analysis, prediction accuracy metrics
+- **Biological Data Analysis** — Interpreting complex biological datasets
+- **Machine Learning** — Applying supervised and unsupervised models to real-world data
+- **Computational Biology** — Bridging biology with algorithmic approaches
+- **Research Development** — Scientific writing, literature review, and experimentation
+- **Data Visualization** — Creating meaningful visual insights from complex datasets
 
 ---
 
-## 🛠️ **Technical Skills**
+## **Technical Skill Set**
 
-### **Programming Languages**
+### **Programming and Computing**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### **Data Analysis & Visualization**
+### **Data and Analysis**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4CAF50?style=flat-square&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4CAF50?style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### **Machine Learning & Statistics**
-- Supervised Learning (Linear & Logistic Regression, Decision Trees, SVM)
+### **Machine Learning (Learning Phase)**
+
+- Supervised Learning (Linear Regression, Logistic Regression, Decision Trees)
+- Unsupervised Learning (Clustering, Dimensionality Reduction)
 - Classification & Regression Models
-- Model Evaluation (Accuracy, Precision, Recall, F1-Score, Confusion Matrix)
+- Model Evaluation & Metrics (Accuracy, Precision, Recall, F1-Score, Confusion Matrix)
 - Feature Selection & Engineering
 - Cross-validation & Hyperparameter Tuning
 
-### **Data Science Tools**
+### **Bioinformatics Tools (Learning)**
+
+- Sequence Analysis Concepts
+- FASTA Data Handling
+- NCBI Database Exploration
+- Computational Biology Fundamentals
+
+### **Development Tools**
+
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-### **Bioinformatics (Learning)**
-- Sequence Analysis & FASTA Data Handling
-- NCBI Database Exploration
-- Computational Biology Fundamentals
 
 ---
 
 ## 🚀 **Featured Projects**
 
 ### **1. Titanic Dataset — Exploratory Data Analysis**
-**Stack:** Python · Pandas · Matplotlib · Seaborn  
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn · Data Analysis  
 **Key Focus:** Data exploration, survival pattern analysis, statistical insights
 
-Comprehensive EDA on the Titanic dataset exploring:
-- **Data Understanding:** Descriptive statistics, missing value analysis, data types
-- **Survival Analysis:** Passenger survival distribution, demographic breakdown
-- **Correlation Studies:** Heatmap analysis identifying relationships between features (age, class, gender, survival)
-- **Visual Insights:** Distribution plots showing age demographics, passenger class composition, survival counts
-- **Feature Relationships:** How fare, age, and class correlate with survival outcomes
+Comprehensive EDA on the Titanic dataset exploring multiple dimensions:
 
-**Key Insights:** Identified survival patterns across different passenger demographics and classes using correlation heatmaps and distribution analysis.
+**Data Understanding:**
+- Descriptive statistics and data type analysis
+- Missing value identification and handling strategies
+- Statistical summaries of numerical and categorical features
+
+**Survival Analysis:**
+- Passenger survival distribution patterns
+- Demographic breakdown (age, gender, class, embarkation port)
+- Survival rates across different passenger classes
+- Family size and fare relationships
+
+**Correlation Studies:**
+- Heatmap analysis identifying relationships between features
+- Correlation between age, class, gender, and survival outcomes
+- Feature dependency visualization
+
+**Visual Insights:**
+- Distribution plots showing age demographics
+- Passenger class composition and counts
+- Survival count analysis by category
+- Passenger count visualizations
+
+**Feature Relationships:**
+- How fare correlates with survival chances
+- Age distribution across passenger classes
+- Gender-based survival pattern differences
+- Class-based feature relationships
+
+**Key Insights:** Identified survival patterns across different passenger demographics and classes using correlation heatmaps and distribution analysis. Demonstrated clear survival disparities based on gender, class, and age factors.
 
 ---
 
 ### **2. IMDB Sentiment Analysis — Text Classification**
-**Stack:** Python · Scikit-learn · Machine Learning · Text Processing  
-**Key Focus:** NLP, sentiment classification, model evaluation
 
-Advanced sentiment analysis on IMDB movie reviews using machine learning:
-- **Data Processing:** Text preprocessing, tokenization, feature extraction
-- **Model Development:** Classification algorithms (Naive Bayes, Logistic Regression, SVM variations)
-- **Model Evaluation:** Accuracy metrics, confusion matrix analysis, precision/recall/F1-scores
-- **Performance Optimization:** Hyperparameter tuning, feature scaling, cross-validation
-- **Visualization:** Confusion matrices, accuracy comparisons, model performance charts
+**Stack:** Python · Scikit-learn · Machine Learning · NLP · Text Processing  
+**Key Focus:** NLP, sentiment classification, model evaluation, text feature extraction
 
-**Results:** Achieved high accuracy in binary sentiment classification (positive/negative) with detailed performance analysis and visualization of model predictions vs. actual labels.
+Advanced sentiment analysis on IMDB movie reviews using machine learning techniques:
+
+**Data Processing:**
+- Text preprocessing and cleaning
+- Tokenization and lemmatization
+- Feature extraction (TF-IDF, Count Vectorizer)
+- Handling text data for ML models
+
+**Model Development:**
+- Classification algorithms (Naive Bayes, Logistic Regression, SVM)
+- Multiple model comparison and evaluation
+- Ensemble techniques for improved accuracy
+- Text feature vectorization approaches
+
+**Model Evaluation:**
+- Accuracy metrics and performance comparison
+- Confusion matrix analysis (True Positives, False Positives, True Negatives, False Negatives)
+- Precision, Recall, and F1-Score calculations
+- ROC curves and AUC analysis
+
+**Performance Optimization:**
+- Hyperparameter tuning for different models
+- Feature scaling and normalization
+- Cross-validation strategies
+- Overfitting prevention techniques
+
+**Visualization & Results:**
+- Confusion matrices showing model predictions
+- Accuracy comparison charts across models
+- Model performance visualization
+- Prediction distribution analysis
+
+**Results:** Achieved high accuracy in binary sentiment classification (positive/negative) with detailed performance analysis and visualization of model predictions versus actual labels. Identified optimal hyperparameters for maximum classification accuracy.
 
 ---
 
 ### **3. Boston Housing — Regression & Price Prediction**
-**Stack:** Python · Scikit-learn · NumPy · Pandas  
-**Key Focus:** Regression modeling, feature importance, predictive accuracy
 
-Predictive modeling for housing price estimation:
-- **Dataset Exploration:** 13 features (CRIM, RM, AGE, LSTAT, etc.), target variable (MEDV - median value)
-- **Feature Analysis:** Identified key predictors of house prices, feature importance ranking
-- **Regression Models:** Linear Regression, Ridge, Lasso, polynomial regression experiments
-- **Model Validation:** Train-test splitting, cross-validation, error metrics (MSE, RMSE, R² score)
-- **Visualization:** Actual vs. predicted scatter plots, prediction error analysis, feature importance charts
+**Stack:** Python · Scikit-learn · NumPy · Pandas · Statistical Modeling  
+**Key Focus:** Regression modeling, feature importance, predictive accuracy, model validation
 
-**Results:** Built predictive models with statistical accuracy validation, showing clear correlations between housing features and market prices.
+Predictive modeling for housing price estimation using regression techniques:
+
+**Dataset Exploration:**
+- 13 feature analysis (CRIM, INDUS, CHAS, NOX, RM, AGE, DIS, RAD, TAX, PTRATIO, B, LSTAT)
+- Target variable analysis (MEDV - Median Value)
+- Statistical descriptions and distributions
+- Data quality assessment
+
+**Feature Analysis:**
+- Identified key predictors of house prices
+- Feature importance ranking and interpretation
+- Correlation analysis with target variable
+- Statistical relationships between features and prices
+
+**Regression Models:**
+- Linear Regression baseline model
+- Ridge Regression (L2 regularization)
+- Lasso Regression (L1 regularization)
+- Polynomial regression experimentation
+- Model comparison and selection
+
+**Model Validation:**
+- Train-test splitting strategies
+- Cross-validation implementation
+- Error metrics (MSE, RMSE, MAE, R² score)
+- Model performance assessment
+- Generalization evaluation
+
+**Visualization & Analysis:**
+- Actual vs predicted scatter plots
+- Prediction error distribution analysis
+- Feature importance bar charts
+- Residual plots and diagnostics
+- Model performance comparison visualizations
+
+**Results:** Built predictive models with statistical accuracy validation, showing clear correlations between housing features and market prices. Achieved optimal performance through hyperparameter tuning and model selection. Demonstrated understanding of regression fundamentals and model evaluation techniques.
 
 ---
 
@@ -129,7 +216,7 @@ Predictive modeling for housing price estimation:
 
 ---
 
-## 🏆 **Academic Foundation**
+## 🏆 **Academic Background**
 
 **Bachelor of Science in Bioinformatics**  
 COMSATS University Islamabad  
@@ -140,6 +227,7 @@ COMSATS University Islamabad
 - Statistical analysis and data interpretation
 - Machine learning applications in bioinformatics
 - Research methodology and academic writing
+- Data-driven decision making
 
 ---
 
@@ -170,6 +258,7 @@ COMSATS University Islamabad
 - Statistical testing and hypothesis validation
 - Bioinformatics tools and workflows (sequence analysis, phylogenetics)
 - Building portfolio with academic and applied projects
+- Developing publication-ready analysis notebooks
 
 ---
 
@@ -181,6 +270,7 @@ Actively seeking opportunities to:
 - Collaborate on machine learning for healthcare/biology
 - Develop computational solutions for complex biological problems
 - Publish research findings and technical documentation
+- Mentor junior students in data analysis techniques
 
 ---
 
