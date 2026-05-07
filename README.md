@@ -12,10 +12,6 @@
 Leveraging Python, statistical analysis, and machine learning to solve  
 real-world biological and data-driven problems
 
-[![Email](https://img.shields.io/badge/Email-ayesha.umar%40example.com-4CAF50?style=flat-square&logo=gmail&logoColor=white)](mailto:ayesha.umar@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayesha%20Umar-4CAF50?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-AyeshaUmar046-4CAF50?style=flat-square&logo=github&logoColor=white)](https://github.com/AyeshaUmar046)
-
 ---
 
 </div>
@@ -77,7 +73,7 @@ I focus on building statistical models and data-driven solutions that bridge bio
 
 ---
 
-## 🚀 **Featured Projects**
+##  **Featured Projects**
 
 ### **1. Titanic Dataset — Exploratory Data Analysis**
 
@@ -203,18 +199,6 @@ Predictive modeling for housing price estimation using regression techniques:
 
 ---
 
-## 📊 **GitHub Statistics**
-
-<div align="center">
-
-![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyeshaUmar046&show_icons=true&theme=tokyonight&bg_color=0D0D0D&title_color=4CAF50&text_color=FFFFFF&icon_color=4CAF50&hide_border=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaUmar046&layout=compact&theme=tokyonight&bg_color=0D0D0D&title_color=4CAF50&text_color=FFFFFF&hide_border=true)
-
-</div>
-
----
-
 ##  **Academic Background**
 
 **Bachelor of Science in Bioinformatics**  
@@ -230,13 +214,13 @@ COMSATS University Islamabad
 
 ---
 
-## 💡 **Learning Approach**
+##  **Learning Approach**
 
-✅ **Hands-On Learning** — Building projects while mastering concepts  
-✅ **Statistical Rigor** — Understanding models deeply, not just running code  
-✅ **Clean Notebooks** — Well-documented, reproducible analysis  
-✅ **Data-Driven Insights** — Extracting meaningful conclusions from datasets  
-✅ **Continuous Development** — Expanding skills in advanced ML and bioinformatics tools
+ **Hands-On Learning** — Building projects while mastering concepts  
+ **Statistical Rigor** — Understanding models deeply, not just running code  
+ **Clean Notebooks** — Well-documented, reproducible analysis  
+ **Data-Driven Insights** — Extracting meaningful conclusions from datasets  
+ **Continuous Development** — Expanding skills in advanced ML and bioinformatics tools
 
 ---
 
