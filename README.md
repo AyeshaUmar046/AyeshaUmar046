@@ -20,7 +20,7 @@ real-world biological and data-driven problems
 
 </div>
 
-## 👋 **About Me**
+##  **About Me**
 
 Final-year BS Bioinformatics student at **COMSATS University Islamabad** (7th Semester) with hands-on experience in data analysis, machine learning, and computational biology.
 
@@ -28,7 +28,7 @@ I focus on building statistical models and data-driven solutions that bridge bio
 
 ---
 
-## 🎯 **What I Focus On**
+##  **What I Focus On**
 
 - **Biological Data Analysis** — Interpreting complex biological datasets
 - **Machine Learning** — Applying supervised and unsupervised models to real-world data
@@ -215,7 +215,7 @@ Predictive modeling for housing price estimation using regression techniques:
 
 ---
 
-## 🏆 **Academic Background**
+##  **Academic Background**
 
 **Bachelor of Science in Bioinformatics**  
 COMSATS University Islamabad  
@@ -277,11 +277,6 @@ Actively seeking opportunities to:
 
 <div align="center">
 
-**📧 Email:** [ayesha.umar@example.com](mailto:ayesha.umar@example.com)  
-**💼 LinkedIn:** [linkedin.com/in/ayesha-umar](https://linkedin.com/in/ayesha-umar)  
-**🐙 GitHub:** [github.com/AyeshaUmar046](https://github.com/AyeshaUmar046)
-
----
 
 ### **Turning biological data into meaningful insights through rigorous analysis and computational methods.**
 
